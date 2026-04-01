@@ -16,10 +16,16 @@ Claude Code assigns you a randomly generated buddy companion (species, rarity, e
 - [Bun](https://bun.sh) runtime (uses `Bun.hash` for deterministic hashing)
 - Claude Code installed
 
+## Screenshots
+
+<!-- Add your own screenshots here -->
+<!-- ![View buddy](screenshots/view.png) -->
+<!-- ![Customize buddy](screenshots/customize.png) -->
+
 ## Install
 
 ```bash
-git clone https://github.com/your-username/claude-buddy-fixer.git
+git clone https://github.com/mick340/claude-buddy-fixer.git
 cd claude-buddy-fixer
 bun install
 ```
