@@ -33,7 +33,7 @@ bun install
 ## Usage
 
 ```bash
-bun run fix
+bun start
 ```
 
 You'll get an interactive menu:
